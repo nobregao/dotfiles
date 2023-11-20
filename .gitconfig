@@ -1,0 +1,7 @@
+[alias]
+	lg = log --all --graph --decorate --oneline --abbrev-commit
+	st = status
+	co = checkout
+	cob = checkout -b
+	pl = pull
+	ps = push
